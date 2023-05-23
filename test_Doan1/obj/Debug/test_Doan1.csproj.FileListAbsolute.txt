@@ -1,0 +1,27 @@
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\test_Doan1.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\test_Doan1.pdb
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\BUS.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\DAL.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Đồ án 1.exe
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\DTO.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\DocXCore.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Guna.UI2.dll
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\BUS.pdb
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\BUS.dll.config
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\DAL.pdb
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Đồ án 1.pdb
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Đồ án 1.exe.config
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Đồ án\Đồ án 1\test_Doan1\bin\Debug\DTO.pdb
+D:\Đồ án\Đồ án 1\test_Doan1\obj\Debug\test_Doan1.csproj.AssemblyReference.cache
+D:\Đồ án\Đồ án 1\test_Doan1\obj\Debug\test_Doan1.csproj.CoreCompileInputs.cache
+D:\Đồ án\Đồ án 1\test_Doan1\obj\Debug\test_Doan1.csproj.CopyComplete
+D:\Đồ án\Đồ án 1\test_Doan1\obj\Debug\test_Doan1.dll
+D:\Đồ án\Đồ án 1\test_Doan1\obj\Debug\test_Doan1.pdb
